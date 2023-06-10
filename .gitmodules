@@ -8,3 +8,8 @@
 	url = https://gitlab.com/dickoa/cgal4h
 	shallow = true
 	registered = true
+[submodule "robotoolbox"]
+	path = robotoolbox
+	url = https://gitlab.com/dickoa/robotoolbox
+	shallow = true
+	registered = true
