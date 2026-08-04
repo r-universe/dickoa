@@ -8,3 +8,6 @@
 [submodule "robotoolbox"]
 	path = robotoolbox
 	url = https://gitlab.com/dickoa/robotoolbox
+[submodule "sondage"]
+	path = sondage
+	url = https://gitlab.com/dickoa/sondage
